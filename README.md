@@ -1,2 +1,3 @@
 # IWWG
-# IWWG
+To be popoulated soon with code for IWWG AMV intercomparison (Matlab and Python)
+Stay tuned...
